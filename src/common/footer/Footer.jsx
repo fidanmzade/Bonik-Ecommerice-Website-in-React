@@ -7,8 +7,8 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <h1>Snowdrop Shop</h1>
+            <p>Snowdrop, which makes the online shopping experience easier with each passing day and makes its services even more advantageous with developments in line with the requirements of the digitalized world, offers its visitors a wide variety, reasonable prices, fast delivery and surprise discounts.</p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
@@ -44,9 +44,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Azerbaijan, Baku, Nizami st.63</li>
+              <li>Email: example.help@gmail.com</li>
+              <li>Phone: +994(50)456 88 23</li>
             </ul>
           </div>
         </div>

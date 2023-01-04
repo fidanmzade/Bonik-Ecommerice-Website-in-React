@@ -5,7 +5,6 @@ footer {
 }
 footer h1 {
   margin-bottom: 30px;
-  color: #e94560;
   font-weight: 800;
   font-style: italic;
 }
@@ -29,8 +28,13 @@ footer p {
 }
 footer h2 {
   margin-bottom: 20px;
+  margin-left: 50px;
 }
 footer li {
   margin-bottom: 10px;
   opacity: 0.5;
+  margin-left: 50px;
+}
+footer h1{
+  color:#fff
 }
